@@ -1,0 +1,6 @@
+{
+  "parent": "bettercombat:sickle",
+  "attributes": {
+    "attack_range": 4
+  }
+}

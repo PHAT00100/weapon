@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[41,)"
+license="MIT"
+[[mods]]
+modId="weapon"
+version="1.5"
+displayName="weapon"
+logoFile="examplemod.png"
+credits="Phat"
+authors="Phat"
+description='''
+add weapon
+'''
