@@ -1,0 +1,47 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "staff",
+	"textures": {
+		"0": "weapon:items/staff/staff",
+		"particle": "weapon:items/staff/staff"
+	},
+	"elements": [
+		{
+			"from": [7.5, -16, 7.5],
+			"to": [8.5, 32, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 8.25, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 8.25, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 8.25, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 8.25, 0]
+		},
+		"ground": {
+			"translation": [0, 8.25, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, 0, 45],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}
